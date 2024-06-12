@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'a2reg': Estimates Linear regression models with two fixed effects Use a2reg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f a2group.ado
+f a2group.hlp
+f a2reg.ado
+f a2reg.hlp
