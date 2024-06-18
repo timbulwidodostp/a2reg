@@ -1,6 +1,8 @@
 # a2reg
 Estimates Linear regression models with two fixed effects Use a2reg With STATA 18
 
+https://www.youtube.com/watch?v=_KHKZ4GQaek
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
